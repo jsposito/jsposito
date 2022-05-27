@@ -1,5 +1,5 @@
 # JULIANO SPOSITO GALDINO
-## Oi eu sou o JULIANO SPOSITO GALDINO!
+## Olá eu sou o JULIANO SPOSITO GALDINO!
 <div align="center">
   <a href="(https://github.com/jsposito)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsposito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
